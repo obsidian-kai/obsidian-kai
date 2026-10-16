@@ -6,12 +6,7 @@
 🌱 Exploring and learning AI-driven development. 
 
 ### Skills/Tools
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,java,maven,gitlab,postman,mysql,docker,kubernetes,aws,linux,nginx,html,nodejs,angular,ts,react,nextjs,figma,devto,obsidian,sublime" />
-  </a>
-</p>
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=claude,chatgpt,ollama,aws,docker,kubernetes,spring,java,maven,gitlab,oracle,postgresql,mysql,linux,nginx,html,nodejs,angular,ts,figma,selenium,playwright,rabbitmq,kafka,devto,obsidian,sublime)
 
 
 
