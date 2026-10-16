@@ -3,7 +3,7 @@
 
 👶 I am currently working on AWS + Springboot microservices full stack application.
 
-🌱 Exploring and learning ReactJS and NextJS. 
+🌱 Exploring and learning AI-driven development. 
 
 ### Skills/Tools
 
